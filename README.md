@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DynastyEmory
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning cyber security
-- 💞️ I’m looking to collaborate on cyver security projects
+- 💞️ I’m looking to collaborate on cyber security projects
 - 📫 How to reach me at DynastEmory on all major social platforms
 
 <!---
